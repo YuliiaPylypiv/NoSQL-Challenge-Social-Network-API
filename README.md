@@ -36,6 +36,9 @@ The following animation shows the POST and DELETE routes for a user’s friend l
 
 In addition to this, your walkthrough video should show the POST and DELETE routes for reactions to thoughts being tested in Insomnia.
 
+Installation
+To run this code, simply clone the code, open the cloned code in your favorite IDE, run npm install to install dependencies and then run "npm start" to start the server.
+
 My GitHub link: https://github.com/YuliiaPylypiv/NoSQL-Challenge-Social-Network-API.git
 
 Demo: https://youtu.be/V9rgycwd634
